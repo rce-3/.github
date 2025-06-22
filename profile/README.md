@@ -45,7 +45,7 @@ We also organize:
 RCE3 plans and hosts a wide range of events:
 
 - Conferences and masterclasses
-- Lightning talks (r ümps)
+- Lightning talks (rumps)
 - Public presentations and showcases
 
 We invite experts to share insights and ensure broad outreach through well-organized, high-impact events.
